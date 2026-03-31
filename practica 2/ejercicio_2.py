@@ -38,3 +38,4 @@ print(f"Minutos: {sumaMinutos}")
 print(f"Segundos: {sumaSegundos}")
 print(f"La cancion mas larga es: '{cancion_max}' - {max} : {max_segundos:02d}")
 print(f"La cancion mas corta es: '{cancion_min}' - {min} : {min_segundos:02d} ")
+ 
